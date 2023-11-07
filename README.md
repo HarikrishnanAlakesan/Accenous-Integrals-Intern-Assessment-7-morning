@@ -10,24 +10,28 @@ Welcome to the official GitHub repository designed exclusively for students part
 
 ## README.md must consist of the following information:
 
-#### Student Name       - _________________
-#### Department & Year  - _________________
-#### College Name       - _________________
-#### Email              - _________________
+#### Student Name       - A.Harikrishnan
+#### Department & Year  - Comuputer and Communication Engineering / II
+#### College Name       - Sri Manakula Vinayagar Engineering College
+#### Email              - mailhkris@gmail.com
 
  #### project video link:
 
 
 ## A Brief of the Prototype:
-This section must include assessment description
+I tried my level best to complete a recreation of the prototype of the website frontend.
   
 ## Tech Stack: 
-   List Down all technologies used to Build the assessment
+   I used Figma for frontend Design
+   I used Css and Html.to imporve the Figma Design
    
 ## Step-by-Step Code Execution Instructions:
- 
+ I designed it to complete my work in a need manner
+ and i altered it with the html and css code to make it more attractive and to link multiple pages.
   
 ## What I Learned from this Assessment: 
+Since I have college these days I forced to spend a Whole night to complete this project.
+I learned the Figma in amore detailed manner and I can use it more effienctently to complete the Frontend development work more quickly.
 
 
 
